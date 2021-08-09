@@ -78,15 +78,19 @@ p{
 
      margin:2px;
      padding: 50px;
+    
 }
 .fa {
     
         padding: 20px;
+        margin-bottom: 0 px;
         font-size: 30px;
         width: 30px;
         text-align: center;
+        align-items:baseline;
         text-decoration: none;
         border-radius: 50%;
+      
       
   }
   
@@ -97,6 +101,7 @@ p{
   .fa-facebook {
     background: #3B5998;
     color: white;
+   
   }
   
   .fa-twitter {
